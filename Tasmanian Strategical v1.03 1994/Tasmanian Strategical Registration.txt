@@ -14,12 +14,20 @@ https://sourceforge.net/u/laurencemaar/
 
 Note from October 12, 2019:
 
-To "Register" the program, simply drop the TAZREG.NFO file into the installation
+To "Register" the program, first try to drop the TAZREG.NFO file into the installation
 directory.
 
-Alternatively, if that doesn't work, you can use the Registration function within
-INSTALL.EXE. That function will create the TAZREG.NFO file for you. If you do that,
-you need to enter the following:
+If that doesn't work, you can use the Registration function within INSTALL.EXE. That
+function will create the TAZREG.NFO file for you. If you do that, enter the following:
+
+Freeware via Laurence Maar
+1035550
+1073100 
+5436
+1366
+1506
+
+If that does not work, you can try this version (only the 2nd number is changed):
 
 Freeware via Laurence Maar
 1035550
@@ -27,6 +35,16 @@ Freeware via Laurence Maar
 5436
 1366
 1506
+
+The 1st, 4th and 5th numbers are all coded to correspond to the registration name.
+So, do not attempt to change the registration name or those 3 numbers.
+
+The 2nd number is the EXPIRATION YEAR MULTIPLIED BY 511.
+Year 2100 * 511 = 1073100 
+Year 1977 * 511 = 1010247 (Year 1977 should result in a never-ending license but might not work)
+
+The 3rd number is the EXPIRATION MONTH MULTIPLIED BY 453.
+Month 12 * 453 = 5436 (December. Don't bother changing this.)
 
 ==============================================================================
 ||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
