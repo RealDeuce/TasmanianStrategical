@@ -1,0 +1,655 @@
+==============================================================================
+||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
+==============================================================================
+
+Tasmanian Strategical
+Copyright (C) 1993, 1994, 2019 Laurence Maar
+laurencemaar@gmail.com
+https://www.facebook.com/laurencemaar/
+https://www.linkedin.com/in/laurencemaar/
+https://github.com/laurencemaar/
+https://sourceforge.net/u/laurencemaar/
+
+-----
+
+As of October 11, 2019:
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+==============================================================================
+||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
+==============================================================================
+
+
+
+			     Maartian Enterprises
+
+			     Tasmanian Strategical
+				     (T-S)
+
+				 Laurence Maar
+
+
+
+  Onliner.
+  Shareware.
+  Strategical Wargame.
+  Complete System Operator documentation.
+  Portions of this documentation have been written by Kevin 'Viroman' Ross.
+
+
+
+  !TAZ_xxx.ZIP -- Standard Onliner Version
+  !TAZ_Sxx.ZIP -- Synchronet Onliner Version
+  TAZ.ORD      -- Tasmanian Strategical Order Form
+
+
+
+
+
+
+
+
+
+Maartian Enterprises,   Team Omnicron,   The Kelvar Porcupine,   Tasmanian
+Strategical,   and all respective logos are trademarks of  Laurence  Maar.
+Tasmanian Strategical  and  This documentation is  (C)opyright 1993,  1994
+Laurence Maar.
+
+==============================================================================
+||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
+==============================================================================
+
+  Here are just SOME of the options you get with your registration.
+  Registering sysops will have access to the following*:
+
+With your registration:
+     Interplanetary Commands
+     Diplomacy Hardcore
+     Warzone Homeland Defense Rolling
+     Additional Attack Commands
+     Technical Support
+     RIVAL CPU Empires
+     Built in Interplanetary Functions
+     Maartian Enterprises Customer Service
+     Tasmanian Strategical Complementery Screen Saver
+     The Satisfaction of Knowing Your Money Wasn't Wasted
+     Latest Version Upgrades Practically for FREE
+
+*All items and services are subject to pricing and availabilty
+Any checks or money orders MUST be addressed to 'CASH' or 'Laurence Maar'
+
+
+
+
+
+ NOTICE! Tasmanian S. REQUIRES a fossil driver to operate::
+
+ Included in this version of Tasmanian Strategical is the fossil driver BNU.
+ This must either be installed as a DEVICE in CONFIG.SYS (BNU.SYS) or run in
+ your AUTOEXEC.BAT (BNU.COM) or else your system may crash or simply not work.
+
+ If problems develop with your fossil driver use X00 (instructions for X00
+ are included in this manual)
+
+ *****
+
+ FOSSIL Does NOT apply to SYNCHRONET VERSION!!!
+
+ (Make sure you have the Synchronet Version, and not the Standard Version.
+  The Synchronet version will allow you to use the Synchronet command
+  keys from inside the game!!! BE WARNED!)
+
+NOTE: BNU is copyright and property of it's respective holder(s).
+
+[INSTALL.DOC]
+
+
+    I N S T A L L A T I O N . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    1) Unzip Tasmanian Strategical into it's own directory
+
+    2) Run INSTALL.EXE
+
+    3) INSTALL will first prompt you to print this documentation.
+
+    4) INSTALL will then go to the 'Install Program' menu:
+
+       a) Your source directory is the directory INSTALL reads the
+	  archive files FROM.
+
+       b) Your target is where the program writes TO. It's always best if
+	  you use the same source and target.
+
+       c) Select 'Proceed...'
+
+    5) Install will then go to the 'Reconfigure Program' menu:
+
+       a) Enter BBS Directory (Bulleting Board System Dir)
+
+       b) A Drop File is a file created by the BBS so that onliners can
+	  read the user's information. Here are some standard files:
+
+	  DOOR.SYS     - Synchronet, Gap, Apex, Remote Acc., WC3.0, PCBoard
+	  CHAIN.TXT    - WWiV, Apex, Telegard
+	  DORINFO*.DEF - QBBS, RBBS, Telegard
+	  SFDOORS.DAT  - Spitfire, TriTel, Telegard
+	  CALLINFO.BBS - Wilcat A & B, Telegard
+
+       c) INSTALL will write a batch file to the specified directory & name
+
+       d) Select lanuguage default (English or French)
+
+       e) Select cursor default (Yes or No)
+
+       f) Select 'Proceed...'
+
+    6) INSTALL will then go to the 'Initiate New Game' menu:
+
+       a) Turns / Cycle determines how many 'turns' a player get per day
+
+       b) Turns / Immunity determines how long a player has 'attack immunity'
+	  If you set this TOO high the game will get monotonous and boring.
+	  Ten to Twenty turns are acceptable, but this is also dependent on
+	  how many turns per day players have.
+
+       c) Cycle Length & Commence Dates are not used in this version.
+
+       e) Select 'Proceed...'
+
+
+[CONTINUED...]
+
+[CONTINUATION...]
+
+
+    7) Select 'Initialize New Game' whenever you want to start a new game
+       (Only one game can be running at a time, of course)
+
+    8) INSTALL will return to the Main Menu
+
+    9) Select 'Proceed...' to exit INSTALL
+
+   10) Now, you have to go into the external program configuration for your
+       bulletin board system and enter in all the information provided on the
+       previous page (above) as applicable.
+
+   11) Now you will have to install a fossil driver into memory everytime
+       you start up your computer so that Tasmanian Strategical can function
+       (Does not include SYNCHRONET VERSION)
+
+   12) Find a place that carries a fossil driver and download it. Unzip
+       the files either into the T.S. directory or into it's own dir.
+       BNU is already included with this package for you convenience.
+
+   13) Choose from one of the four below options
+
+	  DEFAULT:::
+       1) If you **DO NOT** have a fossil driver already installed AND
+	  want to have TAZBAT.BAT run your fossil by default go directly
+	  to step 18.
+
+	  ALTERNATIVES:
+       2) If you **DO** have a working fossil driver installed in your system:
+	  do step 14 and 15, then go to step 18.
+
+       3) If you **DO NOT** have a fossil driver already installed
+	  AND want to install a fossil driver to your AUTOEXEC.SYS
+	  do step 16, then go to step 18.
+
+       4) If you **DO NOT** have a fossil driver already installed
+	  AND want to install a fossil driver to your CONFIG.SYS
+	  do step 17, then go to step 18.
+
+   14) Edit your TAZBAT.BAT file as necessary:
+       (The first two lines are not necessary for Synchronet.)
+
+ cd\bbs\taz                     Goto Tasmanian Strategical Dir
+ copy \bbs\chain.txt            Copy User Information File From BBS
+ bnu                            Run included fossil driver
+
+ Taz %1 %2 %3  <--------- This is where you add additional nodes for your
+			  BBS. For example, if you are running a 5 node
+			  BBS the line would read 'TAZ %1 %2 %3 %4 %5'
+			  I think you get the Drift.
+
+ cd\bbs                         Return to System
+
+
+[CONTINUED...]
+
+[CONTINUATION...]
+
+
+   15) If you already have a fossil driver installed, REMOVE the line
+       in your 'TAZBAT.BAT' file that runs 'BNU' with an ASCII text editor
+
+   16) Install the fossil driver in your AUTOEXEC.BAT like so:
+	      ...
+	      PATH = C:\path;C:\path;...;C:\BNU; <--- Add FOSSIL DRIVER path
+	      ...
+	      BNU                               -- Choice #2 -- BNU Fossil
+	      ...
+
+   17) Install the fossil driver in your CONFIG.SYS like so:
+	      ...
+	      DEVICE=C:\FOSSIL\BNU.SYS     -- Choice #2 -- BNU Fossil
+	      ...
+
+   18) Now go into your BBS Onliner/External Program editor and enter in
+       all applicable information:
+
+    Name                        Tasmanian Strategical
+    Start-up Directory          C:\SBBS\XTRN\TAZ      (or whatever yours is!)
+    Command Line                TAZBAT.BAT
+    Clean-up Command Line
+    Cost in Credits             0
+    Access Requirements
+    Execution Requirements
+    ANSI Required               No
+    Multi-User                  No  <---- (Cannot handle files simutaneously)
+    Intercept I/O Interrupts    No  <---- (Make sure this one stays no)
+    Shrink BBS                  Yes <---- (Will not operate unless shrunk)
+    Modify User Data            No
+    Uses WWIV Color Codes       No
+    Execute on Event            No
+    Menu Command Keys           Main ( )        Transfer ( )
+    BBS Drop File Type          Gap             Door.sys
+    Place Drop File In          Startup Directory
+
+       WARNING: Do *** NOT *** setup this program as 'Multinode'!!!
+
+   19) Reset your computer
+
+   20) Bon apetit (NOTE: If BNU fails to work properly use 'X00' instructions)
+
+[END TEXT]
+
+[INSTALL2.DOC]
+
+
+  Other changes to your configuration can be done through the INSTALL
+  program as follows, for more information call our Customer Service:
+
+
+**UPDATING YOUR OLD VERSION
+
+    1) Run INSTALL.EXE
+
+    2) Select 'Update Version'
+
+       a) Select both source and target directories
+
+       b) Select 'Proceed...'
+
+
+**REGISTERING TASMANAIN STRATEGICAL
+
+    1) Print your order form (Look on the page titled 'REGISTRATION')
+
+    2) Send full payment to Maartian Enterprises
+
+    3) Wait until you have recieved your registration codes
+
+    4) Run INSTALL.EXE
+
+    5) Select 'Register Program'
+
+       a) Enter All GIVEN Registration Codes
+
+       b) Select 'Verify...'
+
+       c) If an error occurs, redo all 'Invalid' parameters
+
+       d) If Error cannot be corrected, press ESC and contact a representative
+
+       e) Select 'Proceed...'
+
+
+**PRINTER FORMS
+
+    1) Run INSTALL.EXE
+
+    2) Select 'Printer Forms'
+
+       a) Active your printer and set it to 'Online'
+
+       b) Select 'Tasmanian Strategical Manual' to print TAZ.DOC (this file)
+
+       c) Select 'Order Forms' to print order forms TAZ.ORD
+
+       d) Select 'Proceed...'
+
+
+[END TEXT]
+
+[FILELIST.DOC]
+
+
+  ***** !TAZ_100   ZIP ***** <--- Standard Onliner Version
+  ***** !TAZ_S10   ZIP ***** <--- Synchronet Onliner Version
+	INSTALL  EXE Installation Routines
+	LHA      EXE Compression Program
+	EXEC     LZH Exec Files
+	DATA     LZH Data Files
+	DOCS     LZH Text Files
+	BONS     LZH Bonus (May not be included)
+	FILE_ID  DIZ Promotional File Description
+	DESC     SDI Promotional File Description
+
+  ***** EXEC     LZH *****
+	TAZ      EXE       318,260 Executable
+	TAZSAVER EXE        10,265 Executable - Complimentary Screen Saver
+	BNU      COM        11,966 Fossil Driver Executable
+	BNU188B  ZIP        47,855 Fossil Driver Package
+
+  ***** DATA     LZH *****
+	TAZDYY   NFO        57,570 Data File
+	TAZENN   NFO           594 Data File
+	TAZER1   NFO           167 Data File
+	TAZER2   NFO           163 Data File
+	TAZFNN   NFO           621 Data File
+	TAZFRN   NFO        13,910 Data File
+	TAZLNG   NFO        24,080 Data File
+	TAZDAT   NFO        22,623 Data File
+	TAZTE2   NFO           782 Data File
+	TAZTE1   NFO         1,022 Data File
+	TAZTF2   NFO           775 Data File
+	TAZTF1   NFO         1,022 Data File
+	TAZT01   NFO         1,022 Data File
+	TAZT02   NFO           775 Data File
+	MAAR-ASC NFO           797 Data File
+	MAAR-ANS NFO         2,425 Data File
+
+  ***** DOCS     LZH *****
+	TAZ      DOC        30,608 Sysop Documentation -- Manual
+	TAZ      LIC         4,879 Sysop License
+	TAZ      ORD         5,964 Order Form, English & Fran‡ais
+	ORDER    FRM         5,964 Order Form, English & Fran‡ais
+	README   TXT           730 General Reference File
+
+	FOSSIL   DOC         3,180 Fossil Driver Information
+	VENDOR   DOC         4,743 Vendor Reg. and Conditions
+	REGISTER DOC           649 Registration Information
+
+  ***** BONS     LZH *****
+	*.*      *.* Bonus Graphics et al. for release at discretion of
+		     Maartian Enterprises.
+
+
+[END TEXT]
+
+[FOSSIL-2.TXT]
+
+ |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|
+     |_|_|_|_|_| X00 INSTRUCTIONS (ALTERNATIVE FOSSIL DRIVER) |_|_|_|_|_|
+ |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|  |_|_|_|_|_|
+
+  The following instructions are for the installation of X00 ONLY as an
+  alternative to the BNU FOSSIL DRIVER. (Written by Kevin 'Viroman' Ross)
+
+***** ***** ***** ***** *****
+  USE 'X00' IN PLACE OF 'BNU' IF ANY PROBLEMS DEVELOP.
+***** ***** ***** ***** *****
+
+ Find a place that carries the fossil driver and Download it. Create a
+ directory on your hard drive and label it XOO.  Ok, now copy the zip file
+ into the directory and Unzip it.  No here comes the fun part, edit
+ your AUTOEXEC.BAT and do the following:
+
+---> AUTOEXEC.BAT (Example) :
+
+PROMPT $p$g
+PATH = C:\DOS;C:\SBBS;C:\QEMM;C:\XOO; <--- Add XOO to path
+SET TEMP=C:\DOS
+XU DV:ON           <----- Add this...
+XU PORT:0:ON       <----- Add this line it turns on the Fossil driver for
+			  Port 0 (Which is COM 1 <--- ATTENTION!!).
+XU Set:0:19200:8N1 <----- This Command line sets the port
+			  FORMAT ---> XU SET:A:XXXXX:PNS
+			  A     Stands for which XOO port number
+			  XXXXX Stands for the baud rate (Speed of your modem)
+			  PNS   Stands for parity et al. (Use 8N1 as default)
+
+To calculate the PORT NUMBER, take your COM PORT NUMBER and subject ONE from
+that, Thus ---> COM 5 is Fossil PORT 4, etc.. (Refer below for more info..)
+
+  Port 0 is: Com 1          Port 4 is: Com 5
+  Port 1     Com 2          Port 5     Com 6
+  Port 2     Com 3          Port 6     Com 7
+  Port 3     Com 4          Port 7     Com 8
+
+---> CONFIG.SYS (Add the following line ALSO) :
+
+DEVICE=C:\XOO\X00.SYS E 0=3f8,IRQ4 <----- Now this is Self-Expl., but...
+					  '0'  is the Fossil Port number
+					  3f8  is the Address Port for COM 1
+					  IRQ4 is the IRQ port for COM 1
+
+  Port  ADDR  IRQ           Port  ADDR  IRQ  <----- This is a listing of all
+  COM1  3f8   IRQ4          COM3  3e8   IRQ5        standard COM Port w/
+  COM2  2f8   IRQ3          COM4  2e8   IRQ3        Address Port and IRQs
+
+Once you add those lines reset you machine and away you go the Drivers load
+and you are now in the great world of Fossil Drivers!!!
+
+NOTE: BNU and X00 are both property of their respective holder(s).
+
+
+[END TEXT]
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+			  ***** REGISTRATION *****
+
+To register:
+
+  1) Run INSTALL
+  2) Select 'Printer Forms'
+  3) Select 'Order Form' (Make sure your printer is ready)
+  4) Select 'Proceed...'
+  5) Mail your completed form
+
+  Order Forms are located in the files TAZ.ORD, ORDER.FRM, and TAZ.DOC(back)
+  Any checks or money orders MUST be addressed to 'CASH' or 'Laurence Maar'
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+
+Tasmanian Strategical -- The hottest stuff since BRE or SRE (c) Mehul Patel
+			 This is rated X for Extra, Extra, read all about it!
+			 Real action with a built-in Inter-BBS routines
+			 which allow TRUE bulletin boards to play inter-bbs
+			 without external software!
+
+			 Also, choose from a variety of attacks which are all
+			 worth while, a super super super secret force of
+			 elite terminator troops and outposts to fortresses.
+
+			 Grab your copy before inflation strikes YOU!
+
+
+   NOTE: The latest versions of all out programs are sent complimentary
+   with each order. Each file is also backed up at least once on your disk
+   for your safety. For maximum efficiency, please print out an order form,
+   this will allow us to process your order within the shortest amount of
+   time.
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+Verified Customer Comments
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+Here are some comments I have weeded out from the piles of letters which
+swamped me (In chronological order, of course):
+
+  "Very cool game, everyone loves it!"
+   -- Brian T. "Red Brawn", NC
+
+  "...I threw in 4 extra bucks..."
+   -- Atkins M., CO
+
+  "I thank you for the writing of Smurf Combat...
+   an excellent and fun program."
+   -- Eric M., WA
+
+  "Great game , lots of fun."
+   -- Dave S., OH
+
+  "...looks pretty cool..."
+   -- Mortifier, CA
+
+  "After considerable playing of your game...I have decided...you would be
+   crazy not to register it."
+   -- Kevin R., TX/NY
+
+  "I have not had this game for very long, but I like it."
+   -- Robert S.
+
+  "Everyone enjoys the game. Fantastic! Super! Terrific! I hate to share it!"
+   -- Terry M., NY
+
+  "I think it is a neat game."
+   -- Peter G.
+
+  "S.C. is a great game, running it on WWiV...Thanks!"
+   -- Devon B., NC
+
+  "I love the satire in it!"
+   -- William T., TX
+
+  "People like the game...fun game...why the simulated computer paper?"
+   -- Timothy P., CO
+
+  "I like the game SMURF COMBAT very much,
+   I am VERY excited about recieving the registered version...
+   So I hope your business has very good luck with more games,
+   and hope they stay around this price...thanks..."
+   -- Steve B., OR
+
+REMEMBER: We always appreciate any positive or negative comments you have to
+share. No capitalization or punctualization has or ever will be modified.
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+	    This documentation is (C)opyright 1994 Laurence Maar.
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+==============================================================================
+||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
+==============================================================================
+
+  Product     Description                        Price/e   Qty    Total
+  TAZSMURF o  Tasmania AND Smurf Combat            $      _____ x _____
+
+  TAZONL   o  Tasmanian Strategical [Onliner]      $      _____ x _____
+  SMUONL   o  Smurf Combat [Onliner]                $     _____ x _____
+
+  ******** Add $  For Inter-BBS Reg For T-S!! ********            _____
+  ******** Add $  For SYNCHRONET VERSION(s)!! ********            _____
+
+  =====----->                                SubTotals    _____   _____
+  ->           Add $3 for Shipping and Handling (Base)            _____
+  ->        Add $7 for Internat'l S&H OR $3 for Canada            _____
+  ->               Add $1-$5 for RUSH service ($1/lvl)            _____
+  ->              Add $2 for FREIGHT INSURANCE (Opt'l)    _____   _____
+  =====----->                           Total Enclosed    _____   _____
+
+  Registration Name: _______________________________________________________
+
+  BBS Name: _______________________ BBS Net & Addr: ___________ Nodes: _____
+
+  Voice #: ________________________ BBS #: ____________________ Users: _____
+
+  Ship to: _________________________________________________________________
+
+	   _________________________________________________________________
+
+  Comments: ________________________________________________________________
+
+	    ________________________________________________________________
+
+	    ________________________________________________________________
+
+	    ________________________________________________________________
+
+	    ________________________________________________________________
+
+	    ________________________________________________________________
+
+	    ________________________________________________________________
+
+=============================================================================
+IF QUOTED USE [ ] Anonymous [ ] Initials [ ] Full Real Name [ ] Regis Name
+Interested in joining our international dist. network? [ ] Yeah [ ] Nopers
+How many use the French mode?  [ ] Everyone  [ ] Alot  [ ] Some  [ ] Noone
+==============================================================================
+||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
+==============================================================================
+
+
+=============================================================================
+Maartian Enterprises, 1415 Valeview Dr. Diamond Bar, CA 91765 USA(Etats-Unis)
+=============================================================================
+
+  Ident       Description                       Couteux  Combien  Total
+  TAZSMURF o  Tasmania ET Smurf Combat             $      _____ x _____
+
+  TAZONL   o  Tasmanian Strategical [Onliner]      $      _____ x _____
+  SMUONL   o  Smurf Combat [Onliner]                $     _____ x _____
+
+  ****** Ajoutez $  Pour Inter-BBS Reg de T-S!!! ******           _____
+  ****** Ajoutez $  Pour SYNCHRONET VERSION(s)!! ******           _____
+
+  =====----->                                SubTotals    _____   _____
+  ->                 Ajoutez $3 pour envoyer <<<S&H>>>            _____
+  ->   Ajoutez $7 pour Internat'l ou $3 pour le Canada            _____
+  ->                 Ajoutez $1 pour tr‚s VITE service            _____
+  ->                    Ajoutez $2 pour FRET ASSURANCE            _____
+  =====----->                                    Total    _____   _____
+
+  Nom pour registration: ___________________________________________________
+
+  BBS Nom: ________________________ BBS Net & Adress: ____________ Nodes: __
+
+  Voix T‚l‚: ______________________ BBS T‚l‚phone: _________________________
+
+  Adress: __________________________________________________________________
+
+	  __________________________________________________________________
+
+  Remarques: _______________________________________________________________
+
+	     _______________________________________________________________
+
+	     _______________________________________________________________
+
+	     _______________________________________________________________
+
+	     _______________________________________________________________
+
+	     _______________________________________________________________
+
+	     _______________________________________________________________
+
+=============================================================================
+SI NOUS VOUS CITER, FAIRE [ ] Anonyme [ ] Initials [ ] Nom Vrai [ ] Nom Reg
+Voulez-vous etre dans notre network? [ ] Oui  [ ] Non ____________________
+Qui parle Fran‡ais la bas? [ ] Tout  [ ] Beaucoup   [ ] Demi  [ ] Personne
+=============================================================================
+Maartian Enterprises, Diamond Bar, CA 91765 USA(Etats-Unis)
+=============================================================================
+
