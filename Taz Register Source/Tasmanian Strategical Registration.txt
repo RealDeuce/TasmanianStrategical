@@ -1,0 +1,33 @@
+==============================================================================
+||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
+==============================================================================
+
+Tasmanian Strategical
+Copyright (C) 1993, 1994, 2019 Laurence Maar
+laurencemaar@gmail.com
+https://www.facebook.com/laurencemaar/
+https://www.linkedin.com/in/laurencemaar/
+https://github.com/laurencemaar/
+https://sourceforge.net/u/laurencemaar/
+
+-----
+
+Note from October 12, 2019:
+
+To "Register" the program, simply drop the TAZREG.NFO file into the installation
+directory.
+
+Alternatively, if that doesn't work, you can use the Registration function within
+INSTALL.EXE. That function will create the TAZREG.NFO file for you. If you do that,
+you need to enter the following:
+
+Freeware via Laurence Maar
+1035550
+1010247
+5436
+1366
+1506
+
+==============================================================================
+||  Maartian Enterprises  ||                     ||  Diamond Bar, CA 91765  ||
+==============================================================================

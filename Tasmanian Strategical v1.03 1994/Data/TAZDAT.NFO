@@ -1,0 +1,1025 @@
+MENU_NAME
+column color/len/functiens/c1/c2/c3/c4/c5/prices?/type/nonprices/tnonqty/c6/c7/default
+percent command/BOOL militia percent
+command firsts
+command names
+__END__
+
+LANGUAGE
+0230020715071002000000002
+0000
+12
+Do You Speak ?
+French
+English
+__END__
+
+FRNGUAGE
+0230020715071002000000001
+0000
+12
+Parlez Vous ?
+Fran‡ais
+Anglais
+__END__
+
+MENU_LOGON
+0516100109111305090000001
+0000
+12345678*0
+Tasmania
+Play Game
+Display Status
+#Diplomacy
+Scores
+News
+Abdicate
+Full Scale Warzone
+$Interplanetary
+@Depech‚ Mode
+Quit Game
+__END__
+
+FRNU_LOGON
+0516100109111305090000001
+0000
+12345678*0
+Tasmania
+Jouer Jeu
+Regarder Dossier
+#Dipolmatie
+Scores
+Nouvelles
+Abandonnez
+la Zone Guerre
+$Interplanetary
+@Depech‚ Mode
+Quitte
+__END__
+
+MENU_ATTACK
+023006071507100200000000þ
+0000
+1235?þ
+Millitary Operations
+Conventional Attack
+Nuclear Attack
+Implant Terminators
+Coup Attempt
+Attack Information
+Quit
+__END__
+
+FRNU_ATTACK
+023006071507100200000000þ
+0000
+1235?þ
+Operations de Militaire
+Attack Conventioniel
+Nuclear Attack
+Implant Terminators
+Coup de Terre
+Attack Renseignments
+Quitte
+__END__
+
+MENU_SYSOP
+0820110210151305000000000
+0000
+12345679-=0
+Depech‚ Mode
+Liser Strings
+Ecriver Line
+Ecriver String
+Ecriver Word
+Ecriver Character
+Save Variables
+Reload Variables
+Reset Variables
+Parlez-Vous Anglais
+Parlez-Vous Francais
+Main Menu
+__END__
+
+FRNU_SYSOP
+0820110210151305000000000
+0000
+12345679-=0
+Depech‚ Mode
+Liser Strings
+Ecriver Line
+Ecriver String
+Ecriver Word
+Ecriver Character
+Save Variables
+Reload Variables
+Reset Variables
+Parlez-Vous Anglais
+Parlez-Vous Francais
+Main Menu
+__END__
+
+MENU_SPENDING
+014015041211120411541002þ
+0900
+1234567890.*-?þ
+Government Spending
+Militia
+Terminators
+Rocket Launchers
+Bombers
+Tanks
+Transport
+Saboteur
+Territory
+Outposts
+Command Center
+Mobile Palace
+Political Control
+Discharge Units
+Information
+Quit
+1000
+2000
+4000
+8000
+5000
+1000
+10000
+1000
+500000
+1000000
+0
+0
+0
+0
+0
+__END__
+
+FRNU_SPENDING
+014015041211120411541002þ
+0900
+1234567890.*-?þ
+D‚pense de Gouvernement
+Milice
+Terminateurs
+Rocket Launchers
+Bombers
+Blind‚s
+Transport
+Saboteur
+Territoire
+Outposts
+Centre de Ordre
+Mobile Palais
+Political Control
+Discharge Units
+Renseignment
+Quitte
+1000
+2000
+4000
+8000
+5000
+1000
+10000
+1000
+500000
+1000000
+0
+0
+0
+0
+0
+__END__
+
+MENU_SELLING
+014010041211120412111410þ
+0000
+123456789þ
+Government Spending
+Militia
+Terminators
+Rocket Launchers
+Bombers
+Tanks
+Transport
+Saboteur
+Territory
+Outposts
+Purchase Units
+500
+1000
+2000
+4000
+2500
+500
+5000
+1000
+250000
+0
+__END__
+
+FRNU_SELLING
+014010041211120412111410þ
+0000
+123456789þ
+D‚pense de Gouvernement
+Milice
+Terminateurs
+Rocket Launchers
+Bombers
+Blind‚s
+Transport
+Saboteur
+Territoire
+Outposts
+Acheter Units
+500
+1000
+2000
+4000
+2500
+500
+5000
+1000
+250000
+0
+__END__
+
+MENU_TERRITORE
+134013021014130516221002þ
+0000
+ABCDFGIMRT ?þ
+Territories
+Barren
+Biosphere
+Commercial
+Disorder
+Fortress
+Government
+Industrial
+Military
+Residential
+Terraforming
+Wasteland
+Information
+Quit
+1000
+100000
+100000
+1000
+1000000
+100000
+100000
+500000
+10000
+1000
+0
+0
+0
+__END__
+
+FRNU_TERRITORE
+134013021014130516221002þ
+0000
+ABCDFGIMRT ?þ
+Territoires
+Infertile
+BiosphŠre
+Commercial
+D‚sordre
+Fortress
+Gouvernement
+Industriel
+Militaire
+R‚sidentiel
+Terraforming
+Radioactifs
+Renseignments de Terre
+Quitte
+1000
+100000
+100000
+1000
+1000000
+100000
+100000
+500000
+10000
+1000
+0
+0
+0
+__END__
+
+MENU_TERRE
+132712021014130513211002þ
+0000
+ABCDFGIMRT þ
+Territories
+Barren
+Biosphere
+Commercial
+Disorder
+Fortress
+Government
+Industrial
+Military
+Residential
+Terraforming
+Wasteland
+Quit
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+__END__
+
+FRNU_TERRE
+132712021014130513211002þ
+0000
+ABCDFGIMRT þ
+Territoires
+Infertile
+BiosphŠre
+Commercial
+D‚sordre
+Fortress
+Gouvernement
+Industriel
+Militaire
+R‚sidentiel
+Terraforming
+Radioactifs
+Quitte
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+__END__
+
+COLLECT
+133012021014130517211002?
+0000
+ABC  GIMR  ?
+Territories
+Barren
+Biosphere
+Commercial
+Disorder
+Fortress
+Government
+Industrial
+Military
+Residential
+Terraforming
+Wasteland
+Information
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+__END__
+
+FRNLECT
+133012021014130517211002?
+0000
+ABC  GIMR  ?
+Territoires
+Infertile
+BiosphŠre
+Commercial
+D‚sordre
+Fortress
+Gouvernement
+Industriel
+Militaire
+R‚sidentiel
+Terraforming
+Radioactifs
+Renseingments
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+__END__
+
+MENU_SYSTEME
+053012051305130500000000þ
+0000
+123456789ABþ
+Systeme Settings
+Set Tax Rate
+Set Draft Rate
+#Diplomacy Menu
+Sabotage Menu
+%Interplanetary Menu
+Warzone Menu
+Set Production
+Display Status
+Scores
+Empire Ratings
+Visit The Bank
+Quit
+__END__
+
+FRNU_SYSTEME
+053012051305130500000000þ
+0000
+123456789ABþ
+Systeme Settings
+Nouveux Rate de Tax
+Nouveux Rate de Draft
+#Menu Diplomatique
+Menu Sabotage
+%Menu Interplanetary
+Menu de la Zone Guerre
+Nouveux Production
+Regarder Dossier
+Scores
+Empire Ratings
+Visite la Banque
+Quitte
+__END__
+
+MENU_INTER
+033009031503110300000000þ
+0000
+1234567?þ
+Interplanetary
+Declare Group Attack
+Join Group Attack
+Conventional Attack
+Attack Listings
+Missle Attack
+Transmit Message
+Government Operations
+Information
+Quit
+__END__
+
+FRNU_INTER
+033009031503110300000000þ
+0000
+1234567?þ
+Interplanetary
+Declare Group Attack
+Join Group Attack
+Conventional Attack
+Attack Listings
+Missle Attack
+Transmit Message
+Gouvernement Operations
+Renseignments
+Quitte
+__END__
+
+MENU_WARZONE
+033009031503110308000000þ
+0000
+1234579?þ
+Full Scale War
+Declare War On...
+Join Ongoing War
+Initiate Rapid Deployment
+Deploy Additional Forces
+Order Full Retreat
+Statis
+Warzone Scoreboard
+Information On Warzone
+Quit
+__END__
+
+FRNU_WARZONE
+033009031503110308000000þ
+0000
+1234579?þ
+la Zone Guerre
+Attaquer...
+Joinder Guerre
+Commencer Rapid Deployment
+Deployer Plus
+Retraiter
+Situation
+Warzone Scoreboard
+Renseignments de Warzone
+Quitte
+__END__
+
+MENU_DIPLO
+023009021002100200000000þ
+0000
+1234567?þ
+Diplomacy
+Neutrality Agreement
+Peace Treaty
+Trooper Defense Pact
+Infantry Defense Pact
+Bomber Strike Defense Pact
+Mobilization Agreement
+Rapid Deployment Protection Act
+Information
+Quit
+__END__
+
+FRNU_DIPLO
+023009021002100200000000þ
+0000
+1234567?þ
+Diplomacy
+Trait‚ de Neutralit‚
+Trait‚ de Pacifiste
+D‚fense Soldat
+D‚fense Infanterie
+D‚fense Bombardier
+D‚fense de Mobiliser
+Pacte de D‚fense Plien
+Renseignments de Diplomatie
+Quitte
+__END__
+
+MENU_SABO
+034011071513110314220505þ
+0000
+123456789?þ
+Sabotage Menu
+Scout Enemy Territory
+Scout Warzone
+Infiltrate Internal Affairs
+Send Contraband
+Corrupt Businesses
+Bomb Civilian Areas
+Fund Drug Trade
+Bomb Industrial Targets
+Bomb Military Zones
+Information
+Quit
+10000
+100000
+100000
+200000
+500000
+1000000
+5000000
+10000000
+100000000
+0
+0
+__END__
+
+FRNU_SABO
+034011071513110314220505þ
+0000
+123456789?þ
+Menu de Sabotage
+Reconnaissance d'‚n‚mie
+Reconnaissance de la Zone Guerre
+Infiltrate Internal Affairs
+Courrer Contraband
+Corrompu Industriel d'‚n‚mie
+Bomber Civilian Areas
+Payer Commerce Drogue
+Bomber Industrial Targets
+Bomber Military Zones
+Renseignments
+Quitte
+10000
+100000
+100000
+200000
+500000
+1000000
+5000000
+10000000
+100000000
+0
+0
+__END__
+
+KKKK_NUKE
+0907
+Nuclear Attack
+__END__
+
+KKKK_ATTACK
+0907
+Initiate variable deployment ballistic attack.
+__END__
+
+KKKK_IMPLANT
+0907
+Implant Terminators
+Systematically inject enemy populations, civilian and military
+with humanoid terminators. Terminators will not return until enemy
+government has been *completely* overthrown. Each terminator costs
+40,000 bullion for shipment. Terminators quadruple every night.
+
+Note: You must already have terminator soldiers offhand, and
+      enough money to ship them.
+
+__END__
+
+KKKK_RAID
+0907
+Raid Enemy Forces
+Attempts to take hostages and capture military technologies
+and equipment. Effective only under strict conditions.
+
+__END__
+
+KKKK_COUP
+0907
+Coup Attempt
+This will allow you to attack with militia, terminators, and
+tanks in an attempt to completely demoralize the enemies
+military and capture territory for opposition forces. Militia
+and terminators both last 10 times longer in combat because
+the opposition forces that you are helping know the local
+territory, however tanks stick out and last 2 times shorter.
+
+Opposition forces will fight to the death, so do not expect
+to have your 1,000,000 militia returned in one piece unless
+you are successful.
+
+__END__
+
+FRNK_NUKE
+0907
+Attaquer avec des armes nucl‚aires.
+__END__
+
+FRNK_ATTACK
+0907
+Commencer attaquer.
+__END__
+
+FRNK_IMPLANT
+0907
+Implant Terminators
+Envoyer terminateurs … l'‚n‚mie. Il faut que vous me donniez 40,000
+l'argent pour envoyer. ll faut que vous aviez terminateur maintenant
+aussi.
+
+__END__
+
+FRNK_RAID
+0907
+Raid Enemy Forces
+Attempts to take hostages and capture military technologies
+and equipment. Effective only under strict conditions.
+
+__END__
+
+FRNK_COUP
+0907
+Coup Attempt
+Attaquer avec milice, terminateurs, et blind‚s.
+__END__
+
+COVERT_CORRUPT
+0907
+Corrupt
+Attempt to corrupt and demoralize military forces.
+
+__END__
+
+FRNERT_CORRUPT
+0907
+Corrupt
+Attempt to corrupt and demoralize military forces.
+
+__END__
+
+HELP_ATTACK
+1103
+Military Operations
+There are six different forms of attack, five of which are
+accessible from the Military Operations menu.
+
+A conventional attack is your everyday 'standard' attack
+manuver.
+
+Nuclear attacks have a 50% chance that it will lower your
+morale and your approval by 50%.
+
+Implanting terminators is a favorite operation of commanders
+everywhere. Its like sending in infiltrators to enter society
+and in a best case scenario, assasinate the king. These will
+lower morale, approvale, destroy internal security, cause
+riots, and kill people. They carry out their mission every
+turn of your victim, making life miserable. On average, a
+compound 85% + 10% of all terminators are located and destroyed
+each turn played by the victim. This function requiures 40,000
+bullion per terminator.
+
+Raiding allows you to capture enemy forces, however if you fail
+to succeed, your losses are five times higher. This function
+also requires extensive funding.
+
+You have the ability to start a world war via the warzone
+menu. By using the full-scale war option you create a
+massive conflict were up to fifty empires can join in an
+everyone for themselves conflict. Select the help command in
+the Full-Scale War menu.
+__END__
+
+FRNP_ATTACK
+1103
+Military Operations
+There are six different forms of attack, five of which are
+accessible from the Military Operations menu.
+
+A conventional attack is your everyday 'standard' attack
+manuver.
+
+Nuclear attacks have a 50% chance that it will lower your
+morale and your approval by 50%.
+
+Implanting terminators is a favorite operation of commanders
+everywhere. Its like sending in infiltrators to enter society
+and in a best case scenario, assasinate the king. These will
+lower morale, approvale, destroy internal security, cause
+riots, and kill people. They carry out their mission every
+turn of your victim, making life miserable. On average, a
+compound 85% + 10% of all terminators are located and destroyed
+each turn played by the victim. This function requiures 40,000
+bullion per terminator.
+
+Raiding allows you to capture enemy forces, however if you fail
+to succeed, your losses are five times higher. This function
+also requires extensive funding.
+
+You have the ability to start a world war via the warzone
+menu. By using the full-scale war option you create a
+massive conflict were up to fifty empires can join in an
+everyone for themselves conflict. Select the help command in
+the Full-Scale War menu.
+__END__
+
+HELP_WARZONE
+1103
+Warzone Information
+You have the ability to start a WORLD WAR via the warzone
+menu. By using the Declare War On... option you create a
+massive conflict were up to FIFTY empires can join in an
+EVERYONE FOR THEMSELVES conflict, where only one person
+can come out alive, there is absolutely no way to survive
+unless you win or can retreat and you have what it takes to
+defend yourselves from limitless armies. Full-scale wars
+do not require any transports for you to mobilize troops.
+
+If there is no ongoing full-scale war, you start one by
+selecting the Declare War On... option, and select who you
+want to war against. If a war is en progress, you simply
+join the war, OR if you want to FORCE someone else into the
+full-scale war use the Declare War On....
+
+Initiating Rapid Deployment is necessary in order to truly
+'begin' the war, as until then you have absolutely NO forces
+on the battle field. Once selected you will choose the
+amount of units you want sent to fight in your name. Then,
+the forces will be 'in the warzone' on the battlefield.
+Every day your forces will automatically attack anyone in the
+'warzone' until they have won or are competely destroyed. If
+your 'warzone' forces are wiped out your status will be
+displayed as 'Homeland'. In other words the battle will
+ADVANCE INTO YOUR TERRITORY. If you manage to defend yourself
+for 10 full days without a single loss against you the forces
+will retreat back to the 'warzone' and continue fighting each
+other, otherwise they will attack you until you have been
+destroyed.
+
+Also, when you are in war, no one can attack you by
+conventional means, as there is no way they could try to
+invade you home territory. This is because the warzone acts
+like a buffer between you and your homeland. As long as you
+have forces on the 'warzone' you are reasonably safe. Cool,
+huh?
+
+In the end, those that die, die, and those that win, win all.
+
+The ratings for military units within the warzone vs. regular
+are as follows:
+
+Unit         Warzone   Standard Attack
+Militia        1-  1      1 -    1
+Terminators    2-  2      2 -    2
+Saboteurs      4-  4     10 -    2
+Tanks          8-  8      5 -    5
+Launchers 100-200-16      0 -96-10
+Bombers    100-50-32      8 -1-100
+
+In the warzone, launchers are twice as strong when defending and
+six times as strong when defending against bombers. Bombers are
+50% as effective when defending. Also, in the warzone launchers
+are offensive and defensive.
+
+When defending home territory, all enemy units defend at minus 10%,
+and all defending units attack at 300%. After 24hours, the seige ends.
+If the defender is killed, barren and disorder territories are
+distributed to the remaining warzoners.
+
+Also, remember to maintain your palace, because in the warzone
+you palace will lose approx 10% to 50% efficiency every day while
+in the war!
+
+__END__
+
+FRNP_WARZONE
+1103
+Renseignments de Warzone
+You have the ability to start a WORLD WAR via the warzone
+menu. By using the Declare War On... option you create a
+massive conflict were up to FIFTY empires can join in an
+EVERYONE FOR THEMSELVES conflict, where only one person
+can come out alive, there is absolutely no way to survive
+unless you win or can retreat and you have what it takes to
+defend yourselves from limitless armies. Full-scale wars
+do not require any transports for you to mobilize troops.
+
+If there is no ongoing full-scale war, you start one by
+selecting the Declare War On... option, and select who you
+want to war against. If a war is en progress, you simply
+join the war, OR if you want to FORCE someone else into the
+full-scale war use the Declare War On....
+
+Initiating Rapid Deployment is necessary in order to truly
+'begin' the war, as until then you have absolutely NO forces
+on the battle field. Once selected you will choose the
+amount of units you want sent to fight in your name. Then,
+the forces will be 'in the warzone' on the battlefield.
+Every day your forces will automatically attack anyone in the
+'warzone' until they have won or are competely destroyed. If
+your 'warzone' forces are wiped out your status will be
+displayed as 'Homeland'. In other words the battle will
+ADVANCE INTO YOUR TERRITORY. If you manage to defend yourself
+for 10 full days without a single loss against you the forces
+will retreat back to the 'warzone' and continue fighting each
+other, otherwise they will attack you until you have been
+destroyed.
+
+Also, when you are in war, no one can attack you by
+conventional means, as there is no way they could try to
+invade you home territory. This is because the warzone acts
+like a buffer between you and your homeland. As long as you
+have forces on the 'warzone' you are reasonably safe. Cool,
+huh?
+
+In the end, those that die, die, and those that win, win all.
+
+The ratings for military units within the warzone vs. regular
+are as follows:
+
+Unit         Warzone   Standard Attack
+Militia        1-  1      1 -    1
+Terminators    2-  2      2 -    2
+Saboteurs      4-  4     10 -    2
+Tanks          8-  8      5 -    5
+Launchers 100-200-16      0 -96-10
+Bombers    100-50-32      8 -1-100
+
+In the warzone, launchers are twice as strong when defending and
+six times as strong when defending against bombers. Bombers are
+50% as effective when defending. Also, in the warzone launchers
+are offensive and defensive.
+
+Also, remember to maintain your palace, because in the warzone
+you palace will lose approx 10% to 50% efficiency every day while
+in the war!
+
+__END__
+
+HELP_RETREAT
+1103
+Retreat Information
+When defending home territory, all enemy units defend at minus 10%,
+and all defending units attack at 300%. After 24 hours, the seige ends.
+If the defender is killed, barren and disorder territories are
+distributed to the remaining warzoners. Defender cannot deploy
+further forces into the warzone. When forces arrive home your
+approval and morale will both fall in half.
+__END__
+
+FRNP_RETREAT
+1103
+Retreat Information
+When defending home territory, all enemy units defend at minus 10%,
+and all defending units attack at 300%. After 24 hours, the seige ends.
+If the defender is killed, barren and disorder territories are
+distributed to the remaining warzoners. Defender cannot deploy
+further forces into the warzone. When forces arrive home your
+approval and morale will both fall in half.
+__END__
+
+HELP_INTER
+1103
+Interplanetary Operations
+This menu allows a prostigous commander to do his dirty work for
+the king himself. Nothing pleases the king more than watching
+great attack fleets launching and multiple warheads detonating
+(on cable).
+
+Declaring a group attack allows you to start an attack team in
+which anyone interested can join. By starting a team, you can
+combine the forces of several empire and send them to attack
+an entire planet or just a single enemy empire in full force.
+Joining a group attack allows you to add more forces to the team,
+or join in if you havn't already.
+
+A Conventional attack is a standard attack, only interplanetary.
+This can become very costly for massive invasions.
+
+A Missle attack allows you to choose from a variety of nuclear
+missles to anti-form bombing. More information is available once
+selected.
+
+Transmit message allows you to send messages far and wide to other
+planets.
+
+Gouvernment operations allows you to implant terminators long
+distance, and corrupt officials.
+__END__
+
+FRNP_INTER
+1103
+Interplanetary Operations
+This menu allows a prostigous commander to do his dirty work for
+the king himself. Nothing pleases the king more than watching
+great attack fleets launching and multiple warheads detonating
+(on cable).
+
+Declaring a group attack allows you to start an attack team in
+which anyone interested can join. By starting a team, you can
+combine the forces of several empire and send them to attack
+an entire planet or just a single enemy empire in full force.
+Joining a group attack allows you to add more forces to the team,
+or join in if you havn't already.
+
+A Conventional attack is a standard attack, only interplanetary.
+This can become very costly for massive invasions.
+
+A Missle attack allows you to choose from a variety of nuclear
+missles to anti-form bombing. More information is available once
+selected.
+
+Transmit message allows you to send messages far and wide to other
+planets.
+
+Gouvernment operations allows you to implant terminators long
+distance, and corrupt officials.
+__END__
+
+ATTACK_BUFFER
+1103
+The Warzone Buffer
+Sorry, but you cannot attack this empire by conventional means
+without penatrating the 'warzone' buffer because he is at full
+scale war. You must declare Full-Scale war on him (from the
+warzone menu) in order to fight him. More information in Full
+Scale War menu.
+__END__
+
+FRNACK_BUFFER
+1103
+The Warzone Buffer
+Sorry, but you cannot attack this empire by conventional means
+without penatrating the 'warzone' buffer because he is at full
+scale war. You must declare Full-Scale war on him (from the
+warzone menu) in order to fight him. More information in Full
+Scale War menu.
+
+__END__
+
