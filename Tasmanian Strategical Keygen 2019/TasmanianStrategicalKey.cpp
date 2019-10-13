@@ -32,7 +32,19 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
 
 /*
-EXMAPLE WORKING SERIAL 1:
+EXAMPLE WORKING SERIAL 1: Expiring in 2100
+
+Freeware via Laurence Maar
+1035550
+1073100 
+5436
+1366
+1506
+
+-----
+
+EXAMPLE WORKING SERIAL 2: Never Expires (1977 is the year code)
+(Might not work correctly)
 
 Freeware via Laurence Maar
 1035550
@@ -96,7 +108,8 @@ int main() {
 	//rcount=bp(tempstring, 12111);        // Calculate correct key
 	rcount=1035550;		// I could not get the keygen code to work, so this is HARDCODED for "Freeware via Laurence Maar"
 
-	year=1977*511;  // 1977 is the year code for an unlimited license. Otherwise you can put year 2100 or something.
+	//year=1977*511;  // 1977 is the year code for an unlimited license.
+	year=2100*511;  // Year 2100 expiration date.
 	month=12*453;
 	amb=15*tempstring[0]+tempstring[1]+tempstring[2]+tempstring[3];
 	dev=17*tempstring[0]+tempstring[1]+tempstring[2]+tempstring[3];
